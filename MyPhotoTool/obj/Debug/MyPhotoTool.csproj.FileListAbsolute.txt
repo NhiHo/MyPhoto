@@ -1,0 +1,9 @@
+C:\Users\COMPAQ\Documents\GitHub\photo-tool-ynhi-hhanh\MyPhotoTool\MyPhotoTool\bin\Debug\MyPhotoTool.exe.config
+C:\Users\COMPAQ\Documents\GitHub\photo-tool-ynhi-hhanh\MyPhotoTool\MyPhotoTool\bin\Debug\MyPhotoTool.exe
+C:\Users\COMPAQ\Documents\GitHub\photo-tool-ynhi-hhanh\MyPhotoTool\MyPhotoTool\bin\Debug\MyPhotoTool.pdb
+C:\Users\COMPAQ\Documents\GitHub\photo-tool-ynhi-hhanh\MyPhotoTool\MyPhotoTool\obj\Debug\MyPhotoTool.csprojResolveAssemblyReference.cache
+C:\Users\COMPAQ\Documents\GitHub\photo-tool-ynhi-hhanh\MyPhotoTool\MyPhotoTool\obj\Debug\MyPhotoTool.Form1.resources
+C:\Users\COMPAQ\Documents\GitHub\photo-tool-ynhi-hhanh\MyPhotoTool\MyPhotoTool\obj\Debug\MyPhotoTool.Properties.Resources.resources
+C:\Users\COMPAQ\Documents\GitHub\photo-tool-ynhi-hhanh\MyPhotoTool\MyPhotoTool\obj\Debug\MyPhotoTool.csproj.GenerateResource.Cache
+C:\Users\COMPAQ\Documents\GitHub\photo-tool-ynhi-hhanh\MyPhotoTool\MyPhotoTool\obj\Debug\MyPhotoTool.exe
+C:\Users\COMPAQ\Documents\GitHub\photo-tool-ynhi-hhanh\MyPhotoTool\MyPhotoTool\obj\Debug\MyPhotoTool.pdb
